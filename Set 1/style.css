@@ -1,0 +1,22 @@
+*{
+  color: black;
+  background-color: rgb(211, 255, 205);
+  font-size: 10px;
+}
+
+h1{
+  color: aqua;
+}
+
+body{
+  background-color: blanchedalmond;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.dost{
+  font-size: large;
+  color: brown;
+}
+h1
+{
+    color: red;
+}
